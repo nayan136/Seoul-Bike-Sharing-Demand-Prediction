@@ -45,3 +45,8 @@ a major concern. The crucial part is the prediction of bike count required at ea
   * Test:
     * R2   : 0.91
     * RMSE : 3.35
+# Summary Plot   
+![Screenshot](seoul_bike_shap.png)
+
+# Important Features
+![Screenshot](shap_summary_plot.png)
