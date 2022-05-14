@@ -50,3 +50,10 @@ a major concern. The crucial part is the prediction of bike count required at ea
 
 # Important Features
 ![Screenshot](shap_summary_plot.png)
+
+# Conclusion
+* We observed that the bike rental count is high on non-holidays than on holidays.
+* During weekdays at 7-9 AM and 5-7 PM, there are sudden spikes in bike count.
+* The bike count is high at high temperatures.
+* In summer the bike count is the highest and is the lowest in winter.
+* When we compare the RMSE and Adjusted R2 of all the models for test data, Random Forest gives the highest Score where the Adjusted R2 score is 0.91 and RMSE is 3.4. So this model is the best for predicting the bike rental count on hourly basis.
