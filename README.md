@@ -57,3 +57,8 @@ a major concern. The crucial part is the prediction of bike count required at ea
 * The bike count is high at high temperatures.
 * In summer the bike count is the highest and is the lowest in winter.
 * When we compare the RMSE and Adjusted R2 of all the models for test data, Random Forest gives the highest Score where the Adjusted R2 score is 0.91 and RMSE is 3.4. So this model is the best for predicting the bike rental count on hourly basis.
+
+# Files Description
+<strong>Seoul_Bike_Sharing_Demand_Prediction.ipynb: </strong>Python notebook with all the Data Preprocessing and Regression code.
+<br>
+<strong>Seoul Bike Sharing Demand Prediction PPT.pdf: </strong>Presentation of the project.
